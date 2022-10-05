@@ -1,2 +1,2 @@
-#!/bin/bas
-ls -na
+#!/bin/bash
+#ls -na
